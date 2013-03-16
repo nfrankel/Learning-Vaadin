@@ -1,3 +1,6 @@
 [submodule "twaattin"]
 	path = twaattin
-	url = https://github.com/nfrankel/twaattin
+	url = git@github.com:nfrankel/twaattin.git
+[submodule "buttongroup"]
+	path = buttongroup
+	url = https://github.com/nfrankel/buttongroup.git

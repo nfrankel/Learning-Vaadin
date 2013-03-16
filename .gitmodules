@@ -4,3 +4,6 @@
 [submodule "buttongroup"]
 	path = buttongroup
 	url = https://github.com/nfrankel/buttongroup.git
+[submodule "clara"]
+	path = clara
+	url = https://github.com/nfrankel/clara.git

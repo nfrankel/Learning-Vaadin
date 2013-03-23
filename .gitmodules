@@ -7,3 +7,6 @@
 [submodule "clara"]
 	path = clara
 	url = https://github.com/nfrankel/clara.git
+[submodule "jpacontainer"]
+	path = jpacontainer
+	url = https://github.com/nfrankel/jpacontainer

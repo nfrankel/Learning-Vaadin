@@ -10,3 +10,6 @@
 [submodule "jpacontainer"]
 	path = jpacontainer
 	url = https://github.com/nfrankel/jpacontainer
+[submodule "cdiutils"]
+	path = cdiutils
+	url = https://github.com/nfrankel/cdiutils

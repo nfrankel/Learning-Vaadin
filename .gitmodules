@@ -13,3 +13,6 @@
 [submodule "cdiutils"]
 	path = cdiutils
 	url = https://github.com/nfrankel/cdiutils
+[submodule "client-extension"]
+	path = client-extension
+	url = git@github.com:nfrankel/client-extension.git

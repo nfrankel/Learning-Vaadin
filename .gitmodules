@@ -16,3 +16,6 @@
 [submodule "client-extension"]
 	path = client-extension
 	url = git@github.com:nfrankel/client-extension.git
+[submodule "gwt-integration"]
+	path = gwt-integration
+	url = git@github.com:nfrankel/gwt-integration.git

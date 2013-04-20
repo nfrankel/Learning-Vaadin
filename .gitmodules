@@ -19,3 +19,6 @@
 [submodule "gwt-integration"]
 	path = gwt-integration
 	url = git@github.com:nfrankel/gwt-integration.git
+[submodule "js-integration"]
+	path = js-integration
+	url = git@github.com:nfrankel/js-integration.git

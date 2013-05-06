@@ -22,3 +22,6 @@
 [submodule "js-integration"]
 	path = js-integration
 	url = git@github.com:nfrankel/js-integration.git
+[submodule "server-push"]
+	path = server-push
+	url = git@github.com:nfrankel/server-push.git

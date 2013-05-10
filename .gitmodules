@@ -25,3 +25,6 @@
 [submodule "server-push"]
 	path = server-push
 	url = git@github.com:nfrankel/server-push.git
+[submodule "hello-portlet"]
+	path = hello-portlet
+	url = git@github.com:nfrankel/hello-portlet.git

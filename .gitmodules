@@ -28,3 +28,6 @@
 [submodule "hello-portlet"]
 	path = hello-portlet
 	url = git@github.com:nfrankel/hello-portlet.git
+[submodule "hello-osgi"]
+	path = hello-osgi
+	url = git@github.com:nfrankel/hello-osgi.git

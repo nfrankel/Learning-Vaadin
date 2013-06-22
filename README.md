@@ -1,7 +1,7 @@
 # Learning-Vaadin
 [Learning Vaadin 7](http://www.packtpub.com/learning-vaadin-7-second-edition/book) is a book entrenched in reality, aimed at learning the Vaadin framework in a practical way, step-by-step.
 
-This Github repository contains the source code contined in the book.
+This Github repository contains the source code contained in the book.
 
 ## Twaattin
 The book goes through all steps of learning Vaadin concepts, by building [Twaattin](../twaattin), a Twitter client made with the [Vaadin](https://vaadin.com) framework.
